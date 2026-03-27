@@ -17,11 +17,11 @@ description: 对 LaTeX 论文执行“句子级最小改动（删除/替换）+ 
 ## 执行脚本
 
 ```bash
-bash /Users/bit/.codex/skills/latex-sentence-surgery/scripts/main.sh "<file>" remove "<target>"
+bash ~/.claude/skills/latex-sentence-surgery/scripts/main.sh "<file>" remove "<target>"
 ```
 
 ```bash
-bash /Users/bit/.codex/skills/latex-sentence-surgery/scripts/main.sh "<file>" replace "<target>" "<replacement>"
+bash ~/.claude/skills/latex-sentence-surgery/scripts/main.sh "<file>" replace "<target>" "<replacement>"
 ```
 
 ## 工作流程

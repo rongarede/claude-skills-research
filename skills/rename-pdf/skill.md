@@ -35,7 +35,7 @@ bash ~/.claude/skills/rename-pdf/scripts/rename.sh "<PDF文件路径>"
 
 **输入**：
 ```
-/renamepdf /Users/bit/Downloads/paper.pdf
+/renamepdf ~/Downloads/paper.pdf
 ```
 
 **输出**：
