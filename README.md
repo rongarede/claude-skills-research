@@ -1,6 +1,6 @@
 # Claude Skills: Research
 
-A collection of 9 Claude Code skills for academic research, paper writing, and literature management.
+A collection of 8 Claude Code skills for academic research, paper writing, and literature management.
 
 ## Skills
 
@@ -14,7 +14,6 @@ A collection of 9 Claude Code skills for academic research, paper writing, and l
 | `research-analyst` | Structured research analysis: hypothesis → evidence → recommendation |
 | `sci-hub-download` | Download papers by DOI (OA → Sci-Hub → publisher fallback) |
 | `semantic-scholar` | Search and verify papers via Semantic Scholar API (214M+ papers) |
-| `word-to-tex` | Convert Word-pasted text to standard LaTeX format |
 
 ## Install
 
