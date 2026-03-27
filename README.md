@@ -1,13 +1,11 @@
 # Claude Skills: Research
 
-A collection of 17 Claude Code skills for academic research, paper writing, and literature management.
+A collection of 13 Claude Code skills for academic research, paper writing, and literature management.
 
 ## Skills
 
 | Skill | Description |
 |-------|-------------|
-| `academic-paper-pipeline` | End-to-end academic literature retrieval pipeline |
-| `ai-vibe-writing-skills` | Writing style transfer and error memory workflow (CN/EN) |
 | `deep-research` | Format-controlled deep research reports with citations |
 | `deep-think` | Extended reasoning for complex problems |
 | `jargon-detector` | Detect and suggest replacements for Chinese academic jargon |
@@ -15,13 +13,11 @@ A collection of 17 Claude Code skills for academic research, paper writing, and 
 | `nb-query` | Deep NotebookLM queries with intermediate artifact storage |
 | `pandoc-citeproc-export` | LaTeX→Word export preserving GB/T 7714-2015 citations |
 | `paper-mapping` | Paragraph-level structural/logical mapping between papers |
-| `paragraph-move-analysis` | Decompose persuasion moves in academic paragraphs |
 | `paragraph-progression-analyzer` | Thematic progression analysis based on Daneš theory |
 | `pdf2md-academic` | Convert academic PDFs to clean Markdown |
 | `research-analyst` | Structured research analysis: hypothesis → evidence → recommendation |
 | `sci-hub-download` | Download papers by DOI (OA → Sci-Hub → publisher fallback) |
 | `semantic-scholar` | Search and verify papers via Semantic Scholar API (214M+ papers) |
-| `tech-scout` | Technology evaluation with comparison matrices |
 | `word-to-tex` | Convert Word-pasted text to standard LaTeX format |
 
 ## Install
