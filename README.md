@@ -30,7 +30,7 @@ A collection of 20 Claude Code skills for academic research, paper writing, and 
 ## Install
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/claude-skills-research.git ~/.claude/skills-repos/research
+git clone https://github.com/rongarede/claude-skills-research.git ~/.claude/skills-repos/research
 cd ~/.claude/skills-repos/research && bash install.sh
 ```
 
