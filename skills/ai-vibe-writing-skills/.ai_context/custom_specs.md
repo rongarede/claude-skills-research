@@ -1,0 +1,41 @@
+## Custom Specifications
+- **Topic**: [e.g. AI, Crypto, Biology]
+- **Target Audience**: [e.g. Beginners, Experts]
+- **Special Requirements**: [e.g. Must include references, Must use analogies]
+- **Writing Mode**: [e.g. Direct Draft, Structured Draft, Reference-Driven]
+- **Context Budget**:
+  - **Max Context Tokens**: [e.g. 12000]
+  - **Target Utilization**: [e.g. 0.7]
+  - **Min Useful Tokens**: [e.g. 2000]
+  - **Compression Strategy**: [e.g. bullet_summary, outline_only]
+- **Evidence Requirements**:
+  - **Minimum References**: [e.g. 3]
+  - **Evidence Coverage**: [e.g. 0.8]
+  - **Citation Style**: [e.g. APA, MLA, IEEE]
+  - **Evidence Format**: [e.g. Inline, Footnote, Endnote]
+- **Outline Validation**:
+  - **Word Deviation Tolerance**: [e.g. 0.1]
+  - **Core Point Coverage**: [e.g. 0.9]
+  - **Max Revision Rounds**: [e.g. 3]
+- **Review Settings**:
+  - **AI Tone Threshold**: [e.g. 60]
+  - **Detection Priority**: [e.g. builtin, third_party]
+  - **Disabled Detectors**: [e.g. gptzero, originality]
+- **Reference Learning Settings**:
+  - **Library Path**: [e.g. .ai_context/memory/reference_library.json]
+  - **Ingestion Mode**: [e.g. summary_only, summary_and_quotes]
+  - **Deduplication Strategy**: [e.g. title_year, title_venue]
+  - **Term Extraction**: [e.g. enabled]
+  - **Style Extraction Scope**: [e.g. abstracts_only, full_text]
+- **MCP Services**:
+  - **GPTZero MCP Name**: [e.g. gptzero]
+  - **GPTZero MCP Method**: [e.g. detect]
+  - **GPTZero Timeout**: [e.g. 30s]
+  - **GPTZero Retry**: [e.g. 1]
+- **Detector API Keys**:
+  - **GPTZero**: [e.g. env:GPTZERO_API_KEY]
+  - **Originality**: [e.g. env:ORIGINALITY_API_KEY]
+  - **Copyscape**: [e.g. env:COPYSCAPE_API_KEY]
+  - **Turnitin**: [e.g. env:TURNITIN_API_KEY]
+  - **Baidu**: [e.g. env:BAIDU_AI_DETECT_KEY]
+  - **ZeroGPT**: [e.g. env:ZEROGPT_API_KEY]
